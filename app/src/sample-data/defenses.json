@@ -1,0 +1,142 @@
+[
+  {
+    "Name": "Denver Broncos",
+    "Team": "DEN",
+    "Bye Week": 12,
+    "Rank": 1,
+    "Andy": 2,
+    "Jason": 1,
+    "Mike": 1,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Philadelphia Eagles",
+    "Team": "PHI",
+    "Bye Week": 9,
+    "Rank": 2,
+    "Andy": 1,
+    "Jason": 4,
+    "Mike": 2,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Pittsburgh Steelers",
+    "Team": "PIT",
+    "Bye Week": 5,
+    "Rank": 3,
+    "Andy": 3,
+    "Jason": 2,
+    "Mike": 9,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Baltimore Ravens",
+    "Team": "BAL",
+    "Bye Week": 7,
+    "Rank": 4,
+    "Andy": 4,
+    "Jason": 5,
+    "Mike": 5,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Minnesota Vikings",
+    "Team": "MIN",
+    "Bye Week": 6,
+    "Rank": 5,
+    "Andy": 5,
+    "Jason": 3,
+    "Mike": 7,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Houston Texans",
+    "Team": "HOU",
+    "Bye Week": 6,
+    "Rank": 6,
+    "Andy": 8,
+    "Jason": 7,
+    "Mike": 4,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Detroit Lions",
+    "Team": "DET",
+    "Bye Week": 8,
+    "Rank": 7,
+    "Andy": 6,
+    "Jason": 8,
+    "Mike": 6,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Kansas City Chiefs",
+    "Team": "KC",
+    "Bye Week": 10,
+    "Rank": 8,
+    "Andy": 7,
+    "Jason": 6,
+    "Mike": 8,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Buffalo Bills",
+    "Team": "BUF",
+    "Bye Week": 7,
+    "Rank": 9,
+    "Andy": 9,
+    "Jason": 11,
+    "Mike": 3,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Los Angeles Chargers",
+    "Team": "LAC",
+    "Bye Week": 12,
+    "Rank": 10,
+    "Andy": 10,
+    "Jason": 13,
+    "Mike": 11,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "New York Jets",
+    "Team": "NYJ",
+    "Bye Week": 9,
+    "Rank": 11,
+    "Andy": 11,
+    "Jason": 15,
+    "Mike": 12,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Green Bay Packers",
+    "Team": "GB",
+    "Bye Week": 5,
+    "Rank": 12,
+    "Andy": 12,
+    "Jason": 20,
+    "Mike": 10,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Los Angeles Rams",
+    "Team": "LAR",
+    "Bye Week": 8,
+    "Rank": 13,
+    "Andy": 13,
+    "Jason": 17,
+    "Mike": 13,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  },
+  {
+    "Name": "Seattle Seahawks",
+    "Team": "SEA",
+    "Bye Week": 8,
+    "Rank": 14,
+    "Andy": 14,
+    "Jason": 18,
+    "Mike": 14,
+    "Markers": "Mark Drafted                      Mark Keeper                      Mark Favorite                      Mark Watchlist                      Mark Avoid"
+  }
+]
